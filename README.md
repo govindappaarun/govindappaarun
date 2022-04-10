@@ -17,4 +17,3 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **reviews**, **frontend sytem design**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/govindappaarun](https://twitter.com/govindappaarun)
-- ⚡️ Fun fact: I'm still learning JS & CSS
