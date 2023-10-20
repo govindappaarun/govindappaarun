@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello 👋
 
-#### I'm a Full-Stack Developer working in Bangalore, India.
+#### I'm a Full-Stack Developer.
 
 ##### NOW
 <!--
@@ -11,7 +11,6 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [**Nexer India**](https://nexergroup.com/)
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.fig`, `.git`
 - 🌍 I'm mostly active within the **NEOG Community**
 - 🌱 Learning all about **Open Source**
